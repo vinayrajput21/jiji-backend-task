@@ -64,6 +64,5 @@ Row Level Security: All database queries are protected by Supabase RLS policies 
 
 Integrate LLM API (e.g., Google Gemini) to process queries and generate intelligent responses
 Build Frontend Interface as specified in the assignment PDF for a complete user experience
-Add query logging and analytics for tracking usage patterns
-Implement rate limiting to prevent API abuse
+
 
